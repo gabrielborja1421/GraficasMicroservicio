@@ -1,0 +1,47 @@
+# Entornos virtuales
+env/
+venv/
+envdesarrollo/
+
+# Archivos de configuración de entorno
+.env
+*.env
+
+# Archivos de compilación
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Archivos de distribución
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Directorios de configuración de IDEs y editores de texto
+.vscode/
+.idea/
+
+# Logs y bases de datos locales
+*.log
+*.sql
+*.sqlite
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de Ju
